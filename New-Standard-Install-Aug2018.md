@@ -252,5 +252,6 @@ the .mydotfiles folder , create all new files
     ```bash
     cd $HOME
     source .bash_profile
+    \~escape
     ```
-# E
+# E  
