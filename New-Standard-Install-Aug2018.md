@@ -175,7 +175,6 @@
 - [ ] Sublime Packages
 - [ ] Certificates ???
 
-~~test~~
 
 # Activate Subl shortcut
 
@@ -195,16 +194,16 @@
     ```
 
 
-# Activate the dotfiles settings
+~~ # Activate the dotfiles settings~~
 
-1. Perform a backup of __.bash_profile__ (Here .bash_profile_beforedotfiles)
+~~1. Perform a backup of __.bash_profile__ (Here .bash_profile_beforedotfiles)
 2. Copy settings .bash_profile from Matthias Fork 
 3. Copy settings from .bash_prompt in a new file from Matthias Fork
 4. copy setting from .aliases in a new file from Matthias Fork
 5. Adapt Now the fork with my settings !!!!
 6. Put the 2 followings alias and comment some others
-    1. alias pcloud="cd $HOME/pCloud\ Drive/"
-    2. alias pcloudgit="cd $HOME/pCloud\ Drive/GitRepo/"
+    * alias pcloud="cd $HOME/pCloud\ Drive/"
+    * alias pcloudgit="cd $HOME/pCloud\ Drive/GitRepo/"~~
 
 # New dotfiles settings
 
