@@ -253,4 +253,10 @@ the .mydotfiles folder , create all new files
     cd $HOME
     source .bash_profile
     ```
-# E  
+
+# Perform Fine Tuning on .aliases files
+
+1. Check the current aliases , updates some of then and remove a lot from the fork
+
+# Perform Fine Tuning on Git prompt
+
