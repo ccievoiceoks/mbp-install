@@ -175,6 +175,7 @@
 - [ ] Sublime Packages
 - [ ] Certificates ???
 
+~~
 # Activate Subl shortcut
 
 1. Create subfolfder $HOME/bin
@@ -191,6 +192,7 @@
     ```bash
     source $HOME/.bash_profile
     ```
+~~
 
 # Activate the dotfiles settings
 
