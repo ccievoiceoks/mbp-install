@@ -206,7 +206,8 @@
 ~~    * alias pcloudgit="cd $HOME/pCloud\ Drive/GitRepo/"~~
 
 # New dotfiles settings ( see dedicated repo for this)
-    [MyPersonalRepo, if you have access](https://github.com:ccievoiceoks/Mydotfiles/README.md)
+    
+   [MyPersonalRepo, if you have access](https://github.com:ccievoiceoks/Mydotfiles/README.md)
 
 1. Create a new repo for dotfiles --> Mydotfiles on github
 2. Create a new hidden folder in the $HOME --> .mydotfiles
