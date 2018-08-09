@@ -262,3 +262,7 @@ the .mydotfiles folder , create all new files
 
 # Perform Fine Tuning on Git prompt
 
+# Install Sublime Text Package 
+
+    The package are installed in the .mydofiles/.sublime/User folder
+    
