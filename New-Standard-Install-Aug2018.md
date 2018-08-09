@@ -151,7 +151,10 @@
 * Time Machine enabled and activate on Syno
 * Fuse for pDrive
 * Logitech
-* Install brew cask
+* Install brew cask (brew cask list / brew cask search)
+
+
+* tried to install a script git-status to see !!!
 
 **!!! New Politics for Disk Management !!!**
 
