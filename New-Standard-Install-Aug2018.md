@@ -151,6 +151,7 @@
 * Time Machine enabled and activate on Syno
 * Fuse for pDrive
 * Logitech
+* Install brew cask
 
 **!!! New Politics for Disk Management !!!**
 
@@ -169,10 +170,6 @@
 * Activate Synology DHCP Server
 
 #Still to do
-
-- [X] Git
-- [X] Dotfiles
-- [ ] Sublime Packages
 - [ ] Certificates ???
 
 
@@ -208,53 +205,8 @@
 # New dotfiles settings ( see dedicated repo for this)
     
    [MyPersonalRepo, if you have access](https://github.com:ccievoiceoks/Mydotfiles)
-
-1. Create a new repo for dotfiles --> Mydotfiles on github
-2. Create a new hidden folder in the $HOME --> .mydotfiles
-3. Create an INITIAL BACKUP folder to store all initial files before we will change the config
-4. Create also a .ssh folder in the INITIAL BACKUP folder
-5. Move the initial file as backup in the INITIAL folder
-    ```bash
-    mv $HOME/.bash_profile $HOME/.mydotfiles/INITIAL-BACKUP-MBP-OKS/.bash_profile
-    mv $HOME/.gitconfig $HOME/.mydotfiles/INITIAL-BACKUP-MBP-OKS/.gitconfig
-    mv $HOME/.ssh/config $HOME/.mydotfiles/INITIAL-BACKUP-MBP-OKS/.ssh/config
-    ```
-6. As **.gitconfig** and **.ssh/config** files are static for the moment , copy back these 2 files in the root of .mydotfiles as they are config file for our setup
-    ```bash
-    cp $HOME/.mydotfiles/INITIAL-BACKUP-MBP-OKS/.gitconfig $HOME/.mydotfiles/.gitconfig
-    cp $HOME/.mydotfiles/INITIAL-BACKUP-MBP-OKS/.ssh/config $HOME/.mydotfiles/.ssh/config
-    ```
-7. Create already symlinks for these 2 files:
-    ```bash
-    cd $HOME
-    ln -sv $HOME/.mydotfiles/.gitconfig $HOME
-    cd $HOME/.ssh
-    ln -sv $HOME/.mydotfiles/.ssh/config $HOME/.ssh/config
-    ```
-8. Now we can continue with the remaining process of the dotfiles process, so in
-the .mydotfiles folder , create all new files
-    ```bash
-    cd $HOME/.mydotfiles
-    touch .aliases
-    touch .bash_profile
-    touch .bash_prompt
-    ```
-9. Updates these files --> .aliases , .bash_profile and .bash_prompt with the settings in the Fork of Matthias
-
-10. Once it is done , create the symlinks to these files as before
-    ```bash
-    ln -sv $HOME/.mydotfiles/.aliases $HOME
-    ln -sv $HOME/.mydotfiles/.bash_profile $HOME
-    ln -sv $HOME/.mydotfiles/.bash_prompt $HOME
-    ```
-
-# More to come eventually
-
-11. Launch the bash_profiles to reload settings
-    ```bash
-    cd $HOME
-    source .bash_profile
-    ```
+	
+	See other Repo for the settings
 
 # Perform Fine Tuning on .aliases files
 
