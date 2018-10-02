@@ -79,12 +79,14 @@
 * VyprVPN
 * Wifi Explorer
 * Wireshark
+* Parcel
 
 **Additional Settings**
 
 * General
 	* **_Google Chrome_** Default Browser
-	* Activate Menu and Dock for Dark mode !!!!
+	
+	~* Activate Menu and Dock for Dark mode !!!!~ ==> Mojave Dark Mode Enabled instead
 * Desktop
 	* Random WallPaper every 30 minutes
 	* Screensaver after 20 minutes
