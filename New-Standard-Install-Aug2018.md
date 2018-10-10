@@ -226,4 +226,8 @@
 # Updates after Mac OS Mojave
 	* Reinstall FuseOSX for pCloud Setup
 	* Issue with GIT due to reinstall of Mac OS Mojave
+
 	[Erreur GIT après MAC OS Install](https://www.yoozio.com/erreur-git-apres-mise-a-jour-de-mac-os-high-sierra-xcrun-error-invalid-active-developer-path-85/)
+
+# Reinstall Homebrew to update
+	* install mas
