@@ -231,3 +231,8 @@
 
 # Reinstall Homebrew to update
 	* install mas
+
+* Install Synology DS Assistant
+* BE ID Token
+* Photo Lemur 3
+* Unify Ubiquity
