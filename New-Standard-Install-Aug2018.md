@@ -231,3 +231,9 @@
 
 # Reinstall Homebrew to update
 	* install mas
+
+# Prepare System for Wakatime
+	* update pip3
+	* pip install wakatime
+	* install wakatime Plugin in Sublime ( Done with configuration File)
+	* Install Wakatime for iTerm2
