@@ -232,15 +232,13 @@
 # Reinstall Homebrew to update
 	* install mas
 
-<<<<<<< HEAD
+* Install Synology DS Assistant
+* BE ID Token
+* Upgrade Photo Lemur 3
+* Install Unify Ubiquity
+
 # Prepare System for Wakatime
 	* update pip3
 	* pip install wakatime
 	* install wakatime Plugin in Sublime ( Done with configuration File)
 	* Install Wakatime for iTerm2
-=======
-* Install Synology DS Assistant
-* BE ID Token
-* Photo Lemur 3
-* Unify Ubiquity
->>>>>>> 63c50e63bc474a94b75dd4bae28134fa48f8cdd2
