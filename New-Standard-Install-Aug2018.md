@@ -242,3 +242,6 @@
 	* pip install wakatime
 	* install wakatime Plugin in Sublime ( Done with configuration File)
 	* Install Wakatime for iTerm2
+	* Update wakatime plugin in SublimeText
+	* Easy install for pip as it is not installed properly
+	* Restart Wakatime config
