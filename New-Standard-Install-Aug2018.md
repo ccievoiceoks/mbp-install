@@ -81,6 +81,7 @@
 * Wireshark
 * Parcel
 * PgAdmin4 for PostGres SQL Database
+* Docker Desktop
 
 **Additional Settings**
 
