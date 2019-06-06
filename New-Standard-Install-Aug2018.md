@@ -248,3 +248,5 @@
 	* Easy install for pip as it is not installed properly
 	* Restart Wakatime config
 	
+# install brew cask
+	* install ngrok --> brew cask install ngrok
