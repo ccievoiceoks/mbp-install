@@ -74,7 +74,7 @@
 * TunnelBlick
 * Tweetbot 3
 * VLC
-* VMWare Fusion
+* ~VMWare Fusion 10~ == > Updated to VmWare Fusion 11 Pro
 * Webex Teams
 * VyprVPN
 * Wifi Explorer
@@ -247,3 +247,6 @@
 	* Update wakatime plugin in SublimeText
 	* Easy install for pip as it is not installed properly
 	* Restart Wakatime config
+	
+# install brew cask
+	* install ngrok --> brew cask install ngrok
