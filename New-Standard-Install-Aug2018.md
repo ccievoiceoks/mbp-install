@@ -80,6 +80,8 @@
 * Wifi Explorer
 * Wireshark
 * Parcel
+* Node Js ( Via Brew)
+* Visual Code (via Cask )
 
 **Additional Settings**
 
