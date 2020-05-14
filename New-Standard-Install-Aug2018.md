@@ -250,3 +250,11 @@
 	
 # install brew cask
 	* install ngrok --> brew cask install ngrok
+	
+	* Work with Visual studio code 
+	* install brew cask install cheatsheet
+	* install brew cask iina
+	* install brew cask rectangle
+
+	
+# Updates ./ssh/config for cloud access
