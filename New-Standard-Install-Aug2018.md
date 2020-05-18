@@ -233,6 +233,8 @@
 
 # Reinstall Homebrew to update
 	* install mas
+	* install mackup
+	* install GNU Stow (stow)
 
 * Install Synology DS Assistant
 * BE ID Token
