@@ -114,6 +114,9 @@
 * Display
 	* Configure Second screen LG to be the copy
 	* Activate Night Shift from 21:30 up to 06:30
+* Accessibility 
+	* Activate the zoom with ^Control
+	* Activate the text display
 * Energy Saving
 	* On Battery
 		* Shutdown screen after 3 minutes
