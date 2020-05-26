@@ -257,6 +257,10 @@
 	* install brew cask install cheatsheet
 	* install brew cask iina
 	* install brew cask rectangle
-
-	
+	* brew install ruby (for Alfred Workflow)
+	* brew install neofetch
+	* brew install devdocs
 # Updates ./ssh/config for cloud access
+
+	* install microsoft Teams / Cisco Webex
+	
