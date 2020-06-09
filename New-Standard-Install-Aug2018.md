@@ -264,3 +264,8 @@
 
 	* install microsoft Teams / Cisco Webex
 	
+
+
+Brew powerlevel 10K
+
+https://github.com/romkatv/powerlevel10k/blob/master/README.md
