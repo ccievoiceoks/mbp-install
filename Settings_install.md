@@ -114,3 +114,7 @@ oks@MBP2020 ~ % defaults write com.google.Chrome.canary PMPrintingExpandedStateF
 oks@MBP2020 ~ % defaults write com.operasoftware.Opera PMPrintingExpandedStateForPrint2 -boolean true
 oks@MBP2020 ~ % defaults write com.operasoftware.OperaDeveloper PMPrintingExpandedStateForPrint2 -boolean true
 oks@MBP2020 ~ %
+
+brew install lsd
+brew install powerlevel10K ===> romkat
+
