@@ -118,3 +118,4 @@ oks@MBP2020 ~ %
 brew install lsd
 brew install powerlevel10K ===> romkat
 
+install keka
