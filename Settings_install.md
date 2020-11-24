@@ -17,7 +17,7 @@ oks@MBP2020 ~ % brew cask list
 alfred                   devdocs                  fuse                     iterm2                   opera                    royal-tsx                sublime-text             vyprvpn
 bartender                fantastical              google-chrome            logitech-presentation    paw                      screenflow               the-unarchiver           webex-teams
 brave-browser            firefox                  iina                     monolingual              postman                  sequel-pro               visual-studio-code       wireshark
-cheatsheet               forklift                 istat-menus              ngrok                    rectangle                spotify                  vmware-fusion
+cheatsheet               forklift                 istat-menus              ngrok                    rectangle                spotify                  vmware-fusion                     keka
 oks@MBP2020 ~ %
 
 # Mas List installed
