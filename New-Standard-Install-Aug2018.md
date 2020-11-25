@@ -274,3 +274,6 @@ Brew powerlevel 10K
 https://github.com/romkatv/powerlevel10k/blob/master/README.md
 
 install keka
+
+install new link for config folder in order to retrieve settings for neofetch 
+ln -s ~/.mydotfiles/.config .config
