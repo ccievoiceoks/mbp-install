@@ -277,3 +277,6 @@ install keka
 
 install new link for config folder in order to retrieve settings for neofetch 
 ln -s ~/.mydotfiles/.config .config
+
+install qmk for keyboard
+brew install qmk/qmk/qmk 
