@@ -1,1 +1,8 @@
-h1 New Installation December 2020
+# New Installation December 2020
+
+- Disable Licenses on Software where there is a count
+  - Intego Security
+  - Istat Menu
+  - ScreenFlow
+  - ...
+- Disable Disk Security with Utility Disk ( Boot at Startup with Cmd+R) and disable the option in the menu to no Security to startup with external drive and on the drive
