@@ -10,9 +10,11 @@
 * Create Bootable Disk with New MacOS ( CLI Commands)
 
 * Install New MacOS --> Big Sur, this Time
-### MANUAL 
-* Install 1Password ( via Portal , install app and code )
-* Install Intego Security ( Download on Website)
-  * Activate License
-  * Schedule a complete scan each day
-  * ...
+
+> ### MANUAL 
+> * Install 1Password ( via Portal , install app and code )
+> * Install Intego Security ( Download on Website)
+>   * Activate License
+>   * Schedule a complete scan each day
+>   * ...
+
