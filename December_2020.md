@@ -60,10 +60,16 @@ Olivier <> Oks
  * ruby
  * stow
  * qmk/qmk/qmk (**error**)
+ * lsd 
  
  olivier@MacBook-Pro-de-Olivier ~ % python3 -m pip install --upgrade pip
 
 * Brew cask
 
+* create new dotfiles folder
+>> mkdir .oksdotfiles
+
+```zsh mv ~/.config ~/.oksdotfiles/ ```
+```zsh ln -s ~/.oksdotfiles/.config ~/.config ```
  
  
