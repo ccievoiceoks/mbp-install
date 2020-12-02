@@ -51,6 +51,13 @@ Olivier <> Oks
 
 * Install Brew packages
 ```zsh brew install << package>>```
+ * openssh
+ * moreutils
+ * findutils
+ * coreutils
+ * dos2unix
+ * nmap
+ * ssh-copy-id
  * c-ares
  * docbook
  * docbook-xsl
@@ -86,7 +93,8 @@ Olivier <> Oks
     sudo rm -rf /usr/local/Cellar/zsh-syntax-highlighting/0.7.1
  * antigen
  
- 
+ # Remove outdated versions from the cellar.
+brew cleanup
  
  
  olivier@MacBook-Pro-de-Olivier ~ % python3 -m pip install --upgrade pip
@@ -99,6 +107,7 @@ Olivier <> Oks
  
 * brew install --cask ( different packages)
  * 1password
+ * 1password-cli
  * cleanmymac
  * osxfuse
  * alfred
@@ -151,7 +160,11 @@ Olivier <> Oks
  * github
  * 
  * timemachineeditor
- 
+ * qlcolorcode
+ * qlimagesize
+ * qlmarkdown
+ * qlstephen
+ * quicklook-json
    
  
  
@@ -269,3 +282,7 @@ mas instal 1384080005
 
 
 Install Manually PCLOUD-DRIVE
+
+Good reference for settings
+https://pawelgrzybek.com/change-macos-user-preferences-via-command-line/
+
