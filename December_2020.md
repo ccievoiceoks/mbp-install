@@ -15,6 +15,11 @@
 > * Install 1Password ( via Portal , install app and code )
 > * Install Intego Security ( Download on Website)
 >   * Activate License
+>   * Authorize Component in the System Security Tab
+>   * Configure Network
 >   * Schedule a complete scan each day
 >   * ...
 
+* Activate FileVault if it is not the case
+* Store the Password Disk Encryption / Access in the Keychain Access
+* Activate Apple Watch to accept request
