@@ -11,6 +11,9 @@
 
 * Install New MacOS --> Big Sur, this Time
 
+User Definition will define the ~ folder
+Olivier <> Oks
+
 > ### MANUAL 
 > * Install 1Password ( via Portal , install app and code )
 > * Install Intego Security ( Download on Website)
