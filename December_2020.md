@@ -22,6 +22,12 @@ Olivier <> Oks
 >   * Configure Network ( Home)
 >   * Schedule a complete scan each day
 >   * ...
+> * Epson Software
+> * Dymo
+> * Sonos
+> * TranslatorX
+> * unifi ubiquity ===> Not Needed anymore as I have a controller
+
 
 
 * Activate FileVault if it is not the case
@@ -63,6 +69,11 @@ Olivier <> Oks
  * qmk/qmk/qmk (**error**)
  * lsd
  * macpilot
+ * tree
+ * telnet
+ * nodejs
+ 
+ 
  
  olivier@MacBook-Pro-de-Olivier ~ % python3 -m pip install --upgrade pip
 
@@ -119,6 +130,14 @@ Olivier <> Oks
  * vagrant-manager
  * ssh-config-editor
    ==> Move config to dotfile or not / or with an exception !!!
+ * cisco-proximity ----> Not needed
+ * cisco-jabber ---> To see
+ * aws-vpn-client
+ * db-browser-for-sqlite
+ * github
+ * 
+ * timemachineeditor
+ 
    
  
  
