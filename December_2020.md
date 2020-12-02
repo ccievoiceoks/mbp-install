@@ -23,6 +23,7 @@ Olivier <> Oks
 >   * Schedule a complete scan each day
 >   * ...
 
+
 * Activate FileVault if it is not the case
 * Store the Password Disk Encryption / Access in the Keychain Access
 * Activate Apple Watch to accept request
@@ -60,7 +61,8 @@ Olivier <> Oks
  * ruby
  * stow
  * qmk/qmk/qmk (**error**)
- * lsd 
+ * lsd
+ * macpilot
  
  olivier@MacBook-Pro-de-Olivier ~ % python3 -m pip install --upgrade pip
 
@@ -71,6 +73,9 @@ Olivier <> Oks
 ```zsh ln -s ~/.oksdotfiles/.config ~/.config ```
  
 * brew install --cask ( different packages)
+ * 1password
+ * cleanmymac
+ * osxfuse
  * alfred
  * rectangle
  * vyprvpn
@@ -90,7 +95,7 @@ Olivier <> Oks
  * visual-studio-code
  * forklift
  * vmware-fusion
- * fuse
+ // * fuse ===> A Oublier c' est plutot OSXFUSE
  ln -svfhn ~/.oksdotfiles/.fuse ~/.fuse
  * google-chrome
  * iina
@@ -104,6 +109,18 @@ Olivier <> Oks
  * opera
  * paw
  * postman
+ * docker
+ * powershell
+ * vagrant
+ * microsoft-teams
+ * whatsapp
+ * microsoft-edge
+ * microsoft-office
+ * vagrant-manager
+ * ssh-config-editor
+   ==> Move config to dotfile or not / or with an exception !!!
+   
+ 
  
 * installation with mas
 
@@ -146,10 +163,14 @@ mas install 413857545
 mas install 1290358394
 * mas search Livraisons
 mas install 924726344
+* mas search "Step Two"
+mas install 1448916662.  ====> May be in manual mode
 
 mas instal 1384080005  Tweetbot
 
 ## Parameters changed
+
+### There is a parameter which is changing the appearance of Applications Folder --> App.APP
 sudo nvram SystemAudioVolume=" "
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2
 defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
@@ -175,7 +196,7 @@ defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool true
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
-defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true   ====> Bingo this one is not correct
 defaults write com.apple.finder ShowStatusBar -bool true
 defaults write com.apple.finder ShowPathbar -bool true
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
@@ -211,3 +232,7 @@ defaults write com.operasoftware.Opera PMPrintingExpandedStateForPrint2 -boolean
 defaults write com.operasoftware.OperaDeveloper PMPrintingExpandedStateForPrint2 -boolean true
  
 mas instal 1384080005
+
+
+
+Install Manually PCLOUD-DRIVE
