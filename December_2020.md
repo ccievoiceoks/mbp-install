@@ -72,6 +72,20 @@ Olivier <> Oks
  * tree
  * telnet
  * nodejs
+ * htop
+ * cask
+ * fzf
+ * mysql-client
+ * openssl
+ * sqlite
+ * tmux
+ * wget
+ * zsh
+ * zsh-completions
+ * zsh-syntax_highlighting
+    sudo rm -rf /usr/local/Cellar/zsh-syntax-highlighting/0.7.1
+ * antigen
+ 
  
  
  
