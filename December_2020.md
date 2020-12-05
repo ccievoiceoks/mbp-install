@@ -109,6 +109,7 @@ brew cleanup
  * 1password
  * 1password-cli
  * cleanmymac
+ * font-meslo-lg
  * osxfuse
  * alfred
  * rectangle
