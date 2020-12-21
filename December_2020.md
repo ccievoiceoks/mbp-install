@@ -287,3 +287,5 @@ Install Manually PCLOUD-DRIVE
 Good reference for settings
 https://pawelgrzybek.com/change-macos-user-preferences-via-command-line/
 
+
+Install ManyCam and Epoccam
