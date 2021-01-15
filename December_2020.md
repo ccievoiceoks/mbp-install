@@ -4,6 +4,8 @@
   * Intego Security
   * Istat Menu
   * ScreenFlow
+  * CaptureFlow
+  *
   * ...
 * Disable Disk Security with Utility Disk ( Boot at Startup with Cmd+R) and disable the option in the menu to no Security to startup with external drive and on the drive
 
